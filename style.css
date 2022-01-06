@@ -17,6 +17,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -27,7 +28,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(pink, tomato);
+    background-image: linear-gradient(pink, gray);
     padding: 10px 50px;
     color: wheat;
     font-weight: 800;
@@ -35,6 +36,12 @@ section{
 }
 .background-top{
     background-image: url(image/shape-5.png);
+    background-repeat: no-repeat;
+    
+}
+.my-mission{
+    background-image: url(image/shape-1.png);
+    background-position: left;
     background-repeat: no-repeat;
     
 }
