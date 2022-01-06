@@ -45,3 +45,16 @@ section{
     background-repeat: no-repeat;
     
 }
+.year-mission{
+    font-family: 'Pacifico', cursive;
+
+    font-size: 30px;
+    
+
+    color: crimson;
+    
+}
+.flexible-container-div{
+    display: flex;
+
+}
