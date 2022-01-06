@@ -14,7 +14,7 @@ h1{
     color: red;
 }
 .tania{
-    background-color: rgba(241, 211, 207, 0.753);
+    background-color: rgba(124, 235, 250, 0.753);
 }
 section{
     display: flex;
@@ -33,7 +33,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(pink, gray);
+    background-image: linear-gradient(rgb(212, 208, 221), rgb(20, 163, 247));
     padding: 10px 50px;
     color: wheat;
     font-weight: 800;
@@ -72,6 +72,8 @@ section{
     background-size:200px;
     
     
+
+
 }
 .flexible-container-div{
     display: flex;
